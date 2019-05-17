@@ -8,4 +8,5 @@
 * Gopi Krishna Amara
 * Mallikarjuna Bodepudi
 ### Client: Dr. CaseTeam 
-### Team Logo: ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
+### Team Logo:
+![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
