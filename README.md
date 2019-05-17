@@ -4,8 +4,8 @@
 ### Project description:  
 ### Team name: The Starks.
 ### Team member names: 
-. Sai Sri Lakshmi Vancha
-. Gopi Krishna Amara
-. Mallikarjuna Bodepudi
+* Sai Sri Lakshmi Vancha
+* Gopi Krishna Amara
+* Mallikarjuna Bodepudi
 ### Client: Dr. CaseTeam 
-### ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
+### Team Logo: ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
