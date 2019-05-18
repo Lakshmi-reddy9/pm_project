@@ -7,6 +7,6 @@
 * Sai Sri Lakshmi Vancha
 * Gopi Krishna Amara
 * Mallikarjuna Bodepudi
-### Client: Sai Sri Lakshmi Vancha 
+### Client: Denise Case 
 ### Team Logo:
 ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
