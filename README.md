@@ -10,6 +10,8 @@
 ### Client: Denise Case 
 ### Team Logo:
 ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
+
+### Project Charter:[](https://github.com/Lakshmi-reddy9/pm_project/blob/master/project_charter.md)
 ### Signature :
 * Sai sri Lakshmi Vancha
 * Mallikarjuna Bodepudi
