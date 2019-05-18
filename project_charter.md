@@ -42,7 +42,6 @@ This application is used by general users.
  | Name of the Stakeholder | Role in the project | Department               | Type of Stakeholder | Expectations                                     | Contact Info           |
 |-------------------------	|---------------------	|--------------------------	|---------------------	|--------------------------------------------------	|------------------------	|
 | Dr.Denise Case          	| Mentor              	| Applied Computer Science | External            	| Provide review comments and suggest improvements | dcase@nwmissouri.edu   |
-
 | Sai Sri Lakshmi Vancha            	| Project manager           | Applied Computer Science | Internal            	| Set milestones, Coordinate activities and validate code                  	| s533905@nwmissouri.edu |
 | Gopi Krishna Amara           | Administrator           | Applied Computer Science | Internal            	| Placing calls, Tracking project and planning project                   | s533486@nwmissouri.edu |
 | Mallikarjuna Bodepudi   | Developer           | Applied Computer Science | Internal            	| Develop,test and validate code                   | s34089@nwmissouri.edu  	|
