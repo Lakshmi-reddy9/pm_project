@@ -12,5 +12,5 @@
 ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
 ### Signature :
 . Sai sri Lakshmi Vancha
-. Mallikarjuna Bodepudi
+* Mallikarjuna Bodepudi
 * Gopi Krishna Amara 
