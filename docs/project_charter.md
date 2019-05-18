@@ -37,7 +37,7 @@ This application is used by general users.
 . As a Project Manager, I want to identify the central problem to solve and determine, with input from the sponsor and stakeholders so that I can meet the client needs and requirements.
 . As a developer, I will be doing the design, installation, testing and maintenance of software systems so that the website is as per the client reqirement.
 
-### Team Organization
+### Stakeholder Register
 
  | Name of the Stakeholder | Role in the project | Department               | Type of Stakeholder | Expectations                                     | Contact Info           |
 |-------------------------	|---------------------	|--------------------------	|---------------------	|--------------------------------------------------	|------------------------	|
