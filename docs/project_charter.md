@@ -1,8 +1,7 @@
-### Project Charter: [Guest IN]
+### Project Charter: [PalMTouchStone]
 
 ## Project Information:  
-In this project we are developing a website called Guest IN using HTML, Node.js, CSS and Bootstrap. The website will be dealing with the clients database for houses, the details of the owners and the contact information.
-
+In this project we are developing a interactive website called PalMTouchStone using HTML, Node.js, CSS and Bootstrap. The website will be dealing with the 5 process groups and help students in learning them. 
 
 - [Source Code](https://github.com/Lakshmi-reddy9/pm_project)
 
@@ -17,13 +16,11 @@ Mentors include:
 
 ### Project Purpose:
 
-The purpose is to create a website for a Estate company where the people can find a accomodation easily from the nearby location or from the place they are searching for.
-
-
+PalMTouchStone is a online popquiz application where students can do the quiz on the flashcards. SQL as backend which helps people to understand more about Project Management and its Process.
 
 ### User Roles:
 
-This application is used by general users.
+This application is used by students.
 
 1. Administrator - Gopi Krishna Amara
 2. Project Manager - Sai Sri Lakshmi Vancha  
