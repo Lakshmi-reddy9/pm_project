@@ -9,7 +9,7 @@
 * Mallikarjuna Bodepudi
 ### Client: Denise Case 
 ### Team Logo:
-![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/team_logo.jpg "Team Logo")
+![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/logo1.PNG "Team Logo")
 
 ### Project Charter:
 [https://github.com/Lakshmi-reddy9/pm_project/blob/master/project_charter.md]
