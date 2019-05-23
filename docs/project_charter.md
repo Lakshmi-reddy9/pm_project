@@ -30,8 +30,10 @@ This application is used by students.
 
 ### Stories by Role[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#stories-by-role)
 
-. As a Administartor, I want to oversee and perform administrative functions concerned with the project. This include calling contractors, making appointments, ordering supplies and preparing reports so that they get to keep up with the clients and the team members.
+. As an Administartor, I want to oversee and perform administrative functions concerned with the project. This include calling contractors, scheduling appointments, ordering supplies and preparing reports so that they get to keep up with the clients and the team members.
+
 . As a Project Manager, I want to identify the central problem to solve and determine, with input from the sponsor and stakeholders so that I can meet the client needs and requirements.
+
 . As a developer, I will be doing the design, installation, testing and maintenance of software systems so that the website is as per the client reqirement.
 
 ### Stakeholder Register
