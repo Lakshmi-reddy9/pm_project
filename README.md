@@ -12,8 +12,7 @@
 ![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/logo1.PNG "Team Logo")
 
 ### Project Charter:
-[https://github.com/Lakshmi-reddy9/pm_project/blob/master/project_charter.md]
-(https://github.com/Lakshmi-reddy9/pm_project/blob/master/project_charter.md)
+https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/project_charter.md
 
 ### Signature :
 * Sai sri Lakshmi Vancha
