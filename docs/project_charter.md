@@ -115,5 +115,5 @@ Not yet decided.
 
 The following have been identified as risks that could contribute to not making scope, budget, or schedule:
 
-- The client changes requirements mid-project…
+- The client changes requirements mid-project.
 
