@@ -124,13 +124,12 @@ Project Management Plan:
 
 **                       **
 
-1. I.Introduction:
+**I.Introduction**:
 
-# I.Starks Software is a software development and consulting Services Company that focuses on developing web applications for various clients. The company has currently acquired the PalMTouchStone project to develop a interactive website for NorthWest Missouri State University. PalMTouchStone is a online popquiz application where students can do the quiz on the flashcards. SQL as backend which helps people to understand more about Project Management and its Process.
+Starks Software is a software development and consulting Services Company that focuses on developing web applications for various clients. The company has currently acquired the PalMTouchStone project to develop a interactive website for NorthWest Missouri State University. PalMTouchStone is a online popquiz application where students can do the quiz on the flashcards. SQL as backend which helps people to understand more about Project Management and its Process.
 
-# III.Project Deliverables:
-
-# IV.Project Charter, project management plan, Requirements specifications, Scope Statement, Work Breakdown Structure, Gantt charts, Cost management plan, Stakeholder register, Quality Management plan , Resources management plan, Project organizational charts, Risk management plan, Project  **Procurement**  Management, Project  **Stakeholder**  Management and lessons learnt documentation. Finally an end product to be delivered which is a working software based on requirement specifications and meeting functionality of the business.
+**Project Deliverables** :
+Project Charter, project management plan, Requirements specifications, Scope Statement, Work Breakdown Structure, Gantt charts, Cost management plan, Stakeholder register, Quality Management plan , Resources management plan, Project organizational charts, Risk management plan, Project  **Procurement**  Management, Project  **Stakeholder**  Management and lessons learnt documentation. Finally an end product to be delivered which is a working software based on requirement specifications and meeting functionality of the business.
 
 **Evolution of the SPMP** :
 
