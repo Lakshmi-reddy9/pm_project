@@ -1,4 +1,4 @@
-1. **Project ** Integration ** Management**
+1. **Project  Integration  Management**
 
 **Project charter:**
 
