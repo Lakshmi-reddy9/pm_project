@@ -1,9 +1,9 @@
-
+| --- |
 | 1. Initiation |
-| 1. a)Stakeholder Identification
-| 2. b)Select Project Manager
-| 3. c)Develop Project Charter
-| 4. d)Approval of Project charter
+| 1. a)Stakeholder Identification |
+| 2. b)Select Project Manager |
+| 3. c)Develop Project Charter |
+| 4. d)Approval of Project charter |
 | 5. e) **Review Project Charter** |
 | --- |
 |
