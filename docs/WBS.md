@@ -1,5 +1,5 @@
 
-| 1. Initiation
+| 1. Initiation |
 | 1. a)Stakeholder Identification
 | 2. b)Select Project Manager
 | 3. c)Develop Project Charter
