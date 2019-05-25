@@ -146,17 +146,18 @@ We have referred many previous and online documents of the successful projects, 
 
 SPMP: Software Project Management Plan
 
-1. II.Managerial Process
+**II.Managerial Process**:
 
 **Management Objectives and Priorities:**
 
 Project manager ensures that the end product must satisfy customers and sponsors. Management Authority reviews monthly status of the project. Top Priorities are to meet all the requirements within the time and budget.
 
-**Constraints: **
+**Constraints:**
 
 The project need to meet the organization triple constraints scope, time and cost.
 
-**Risk Management:** Risk Management team will identify the risks in upgrading process and plans appropriate actions to manage them by analyzing root cause.
+**Risk Management:** 
+Risk Management team will identify the risks in upgrading process and plans appropriate actions to manage them by analyzing root cause.
 
 **Monitoring and Controlling Mechanisms:**
 
@@ -166,17 +167,17 @@ ensures that the project deliverables will be reviewed regularly and controls if
 
 The project requires project manager, program manager, database analyst, finance analyst, programmers, test engineers and other staff. All the staff must be highly skilled and trained.
 
-1. III.Technical Process
+**III.Technical Process**:
 
 **Methods, Tools, and Techniques:**
 
 Windows and Mac OS are used as developing environments in our websitedevelopment where we use HTML, JAVA, JavaScript and PL/SQL technologies and database is SQL. Tools used are MS Project, NetBeans and Visual Studio.
 
-**Software Documentation: **
+**Software Documentation:**
 
-includes all the documents produced by every team member by following documentation rules. All these documents need to be reviewed and approved by project manager.
+Includes all the documents produced by every team member by following documentation rules. All these documents need to be reviewed and approved by project manager.
 
-**Project Support Functions: **
+**Project Support Functions:**
 
 Project manager prepares the releasing plan based on client requirements, time, scope and budget of the projects.
 
@@ -184,15 +185,14 @@ Daily scrums by involving all the stakeholders of the project to know the projec
 
 Application performance need to be monitored and controlled changes throughout the project life cycle.
 
-1. **IV.Schedule Management Plan: **
+**IV.Schedule Management Plan:**
 
 schedule management plan template simply provides a consistent format for establishing the policies and procedures used to develop, execute, monitor and control the project schedule.
 
-**Resource Requirements:** This project requires 5 people each are assigned with desktop and workspace, 5 Mac books and enough budget for the successful completion of a project.
+**Resource Requirements:** 
+This project requires 5 people each are assigned with desktop and workspace, 5 Mac books and enough budget for the successful completion of a project.
 
-**Schedule:** The project starts from 05/05/2019 and ends on 06/09/2019. Detailed schedule of the project is given in project time management plan.
-
-1. **V.Cost Management Plan: **
+**V.Cost Management Plan:**
 
 A Cost Management Plan is a document which will outline the criteria and activities which must be carried out as part of project management. A Cost Management Plan provides both input cost estimates, the amount of money being spent, and cost output estimates, which is the amount of money estimated to be received. It will provide the planning and structure necessary to control the costs of the project, keeping them within the limits of your budget.
 Budget and Resource Allocation: The budget of the project is $3,000,000 and Project manager allocates all the resources to particular tasks based on usage, roles and responsibilities.
@@ -228,12 +228,13 @@ The scope management plan specifies how formal acceptance of the completed proje
 | **Project Title:** PalMTouch Stone **                                          Date: 5/8/2017**   |
 | --- |
 | **Project Justification:** TheNorthwest Missouri State University has approached us for development of a web portal where they can quiz the student about how many processes in each knowledge areas and  help the student learn the inputs, tools &amp; techniques, and outputs. |
-| **Product Characteristics and Requirements:**
-1. All the authorized students should be able to access the website by providing their credentials.
+| **Product Characteristics and Requirements:** |
+| 1. All the authorized students should be able to access the website by providing their credentials.
 2. Different tabs are provided for different purposes where navigation from one part to other is easy
 3. Friendly user interface which makes search and entry easy
 4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.|
-| **Summary of Project Deliverables**   **Project management-related deliverables:** Project charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.  **Product-related deliverables:**
+| **Summary of Project Deliverables**   **Project management-related deliverables:** Project charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project. |
+| **Product-related deliverables:**
 1. A mockup of how the website will look and work.
 2. A website with no functionality embedded in it, but shows how the website will look.
 3. A website including functionalities is presented and will be open for changes.
