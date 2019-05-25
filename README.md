@@ -19,5 +19,4 @@ https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/project_charter.md
 * Mallikarjuna Bodepudi
 * Gopi Krishna Amara 
 
-### Milestone 2 :
 
