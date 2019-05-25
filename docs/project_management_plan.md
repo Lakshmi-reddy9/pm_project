@@ -225,24 +225,24 @@ The scope management plan specifies how formal acceptance of the completed proje
 
 **Scope Statement :**
 
-| **Project Title:** PalMTouch Stone **                                          Date: 5/8/2017**   |
+| **Project Title:** PalMTouch Stone **                                            |
 | --- |
 | **Project Justification:** TheNorthwest Missouri State University has approached us for development of a web portal where they can quiz the student about how many processes in each knowledge areas and  help the student learn the inputs, tools &amp; techniques, and outputs. |
 | **Product Characteristics and Requirements:** |
 | 1. All the authorized students should be able to access the website by providing their credentials.
-2. Different tabs are provided for different purposes where navigation from one part to other is easy
-3. Friendly user interface which makes search and entry easy
-4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.|
-| **Summary of Project Deliverables**   **Project management-related deliverables:** Project charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project. |
+| 2. Different tabs are provided for different purposes where navigation from one part to other is easy
+| 3. Friendly user interface which makes search and entry easy
+| 4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.|
+| **Summary of Project Deliverables**   **Project management-related deliverables:** | Project charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project. |
 | **Product-related deliverables:**
-1. A mockup of how the website will look and work.
-2. A website with no functionality embedded in it, but shows how the website will look.
-3. A website including functionalities is presented and will be open for changes.
-4. A finalized web portal is developed using client requirements and delivered.|
+| 1. A mockup of how the website will look and work.
+| 2. A website with no functionality embedded in it, but shows how the website will look.
+| 3. A website including functionalities is presented and will be open for changes.
+| 4. A finalized web portal is developed using client requirements and delivered.|
 | **Project Success Criteria:**
-- On time delivery of deliverables to client.
-- Client satisfaction with the web portal.
-- User friendly and happy operating features for employee.|
+| - On time delivery of deliverables to client.
+| - Client satisfaction with the web portal.
+| - User friendly and happy operating features for employee.|
 
 **Work Breakdown structure (WBS):**
 
