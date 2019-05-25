@@ -1,5 +1,5 @@
-| 1. Initiation   
-* Stakeholder Identification   
+| 1. Initiation  
+| * Stakeholder Identification   
 * Select Project Manager   
 * Develop Project Charter   
 * Approval of Project charter   
