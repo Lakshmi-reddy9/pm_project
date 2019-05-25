@@ -1,4 +1,4 @@
-1. **Project  Integration  Management**
+# 1.**Project  Integration  Management**
 
 **Project charter:**
 
@@ -120,10 +120,10 @@ The following have been identified as risks that could contribute to not making 
 
 - The client changes requirements mid-project.
 
-
-Project Management Plan:
-
 **                       **
+
+
+# Project Management Plan:
 
 **I.Introduction**:
 
@@ -145,10 +145,6 @@ We have referred many previous and online documents of the successful projects, 
 **Definitions and Acronyms**
 
 SPMP: Software Project Management Plan
-
-
-
-
 
 1. II.Managerial Process
 
@@ -204,6 +200,9 @@ schedule management plan template simply provides a consistent format for establ
 
 **Budget and Resource Allocation:** The budget of the project is $3,000,000 and Project manager allocates all  the resources to particular tasks based on usage, roles and responsibilities.
 
+**                       **
+
+
 1. **Project **** Scope  ****Management**
 
 **Requirements specifications**** :**
@@ -253,13 +252,19 @@ The scope management plan specifies how formal acceptance of the completed proje
 
 [https://palmtouchstone.atlassian.net/secure/RapidBoard.jspa?rapidView=1&amp;projectKey=PAL&amp;view=planning.nodetail&amp;epics=visible](https://palmtouchstone.atlassian.net/secure/RapidBoard.jspa?rapidView=1&amp;projectKey=PAL&amp;view=planning.nodetail&amp;epics=visible)
 
-1. **Project **** Schedule**** (was Time) Management**
+**                       **
+
+
+1. **Project **** Schedule**** Management**
 
 Gantt Chart is in the docs.
 
 **Link to sprints in Jira:**
 
 [https://palmtouchstone.atlassian.net/secure/RapidBoard.jspa?rapidView=1&amp;projectKey=PAL&amp;view=planning.nodetail&amp;epics=visible](https://palmtouchstone.atlassian.net/secure/RapidBoard.jspa?rapidView=1&amp;projectKey=PAL&amp;view=planning.nodetail&amp;epics=visible)
+
+**                       **
+
 
 1. **Project **** Cost **** Management**
 
