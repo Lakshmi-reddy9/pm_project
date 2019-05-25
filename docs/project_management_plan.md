@@ -8,6 +8,11 @@ In this project we are developing a interactive website called PalMTouchStone us
 
 - [Source Code](https://github.com/Lakshmi-reddy9/pm_project)
 
+Team :
+ - Sai Sri Lakshmi Vancha
+ - Gopi Krishna Amara
+ - Mallikarjuna Bodepudi
+
 Clients include:
 
 - Dr. Denise Case, dcase@nwmissouri.edu
@@ -49,7 +54,7 @@ PalMTouchStone is a online popquiz application where students can do the quiz on
 
 #### Phase 1 - Conception and initiation (Module 1)
 
-Phase 1 involves a friendly competition between muliple teams, each completing a quick (2-week, 1 module) exercise to develop a vision for the project on a given platform. In competitions, this exercise may be done in an afternoon. During Phase 1, the teams will work independently and each vision will be shared with the client.
+During Phase 1, the teams will work independently and each vision will be shared with the client.
 
 Deliverables:
 
@@ -60,7 +65,7 @@ Deliverables:
 
 #### Phase 2 - Definition and planning 
 
-During Phase 2, the best parts of each platform-specific charter will be used to create a single, consolidated charter that allows different platforms to share fundamental aspects such as the E-R diagram and sample data.
+During Phase 2, they will create a single, consolidated charter that allows different platforms to share fundamental aspects such as the E-R diagram and sample data.
 
 Deliverables:
 
@@ -111,13 +116,14 @@ The following general schedule will be followed:
 
 ### Budget
 
-Not yet decided.
+$323,950 is the estimated budget for the project.
 
 ### Risk
 
 The following have been identified as risks that could contribute to not making scope, budget, or schedule:
 
 - The client changes requirements mid-project.
+
 
 **                       **
 
