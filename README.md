@@ -8,8 +8,8 @@
 * Gopi Krishna Amara
 * Mallikarjuna Bodepudi
 ### Client: Denise Case 
-### Team Logo:
-![Team Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/logo1.PNG "Team Logo")
+### Project Logo:
+![Project Logo:](https://github.com/Lakshmi-reddy9/pm_project/blob/master/logo1.PNG "Team Logo")
 
 ### Project Charter:
 https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/project_charter.md
@@ -18,3 +18,6 @@ https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/project_charter.md
 * Sai sri Lakshmi Vancha
 * Mallikarjuna Bodepudi
 * Gopi Krishna Amara 
+
+### Milestone 2 :
+
