@@ -172,7 +172,7 @@ The project requires project manager, program manager, database analyst, finance
 
 Windows and Mac OS are used as developing environments in our websitedevelopment where we use HTML, JAVA, JavaScript and PL/SQL technologies and database is SQL. Tools used are MS Project, NetBeans and Visual Studio.
 
-**Software Documentation:**
+**Software Documentation: **
 
 includes all the documents produced by every team member by following documentation rules. All these documents need to be reviewed and approved by project manager.
 
@@ -184,7 +184,7 @@ Daily scrums by involving all the stakeholders of the project to know the projec
 
 Application performance need to be monitored and controlled changes throughout the project life cycle.
 
-1. IV.Schedule Management Plan
+1. **IV.Schedule Management Plan: **
 
 schedule management plan template simply provides a consistent format for establishing the policies and procedures used to develop, execute, monitor and control the project schedule.
 
@@ -192,10 +192,10 @@ schedule management plan template simply provides a consistent format for establ
 
 **Schedule:** The project starts from 05/05/2019 and ends on 06/09/2019. Detailed schedule of the project is given in project time management plan.
 
-1. V.Cost Management Plan
+1. **V.Cost Management Plan: **
 
-       A Cost Management Plan is a document which will outline the criteria and activities which must be carried out as part of project management. A Cost Management Plan provides both input cost estimates, the amount of money being spent, and cost output estimates, which is the amount of money estimated to be received. It will provide the planning and structure necessary to control the costs of the project, keeping them within the limits of your budget.
-       Budget and Resource Allocation: The budget of the project is $3,000,000 and Project manager allocates all the resources to particular tasks based on usage, roles and responsibilities.
+A Cost Management Plan is a document which will outline the criteria and activities which must be carried out as part of project management. A Cost Management Plan provides both input cost estimates, the amount of money being spent, and cost output estimates, which is the amount of money estimated to be received. It will provide the planning and structure necessary to control the costs of the project, keeping them within the limits of your budget.
+Budget and Resource Allocation: The budget of the project is $3,000,000 and Project manager allocates all the resources to particular tasks based on usage, roles and responsibilities.
 
 
 **Budget and Resource Allocation:** The budget of the project is $3,000,000 and Project manager allocates all  the resources to particular tasks based on usage, roles and responsibilities.
@@ -203,9 +203,9 @@ schedule management plan template simply provides a consistent format for establ
 **                       **
 
 
-1. **Project **** Scope  ****Management**
+1. **Project Scope Management**
 
-**Requirements specifications**** :**
+**Requirements specifications :**
 
 | **ID** | **Requirement** | **Priority** | **Type** |
 | --- | --- | --- | --- |
@@ -223,7 +223,7 @@ schedule management plan template simply provides a consistent format for establ
 
 The scope management plan specifies how formal acceptance of the completed project deliverables will be obtained. It is also one of the elements of the project management that may be updated along with the requirements management plan, cost management plan, quality management plan, and process improvement plan and more
 
-**Scope Statement**** :**
+**Scope Statement :**
 
 | **Project Title:** PalMTouch Stone **                                          Date: 5/8/2017**   |
 | --- |
@@ -232,19 +232,16 @@ The scope management plan specifies how formal acceptance of the completed proje
 1. All the authorized students should be able to access the website by providing their credentials.
 2. Different tabs are provided for different purposes where navigation from one part to other is easy
 3. Friendly user interface which makes search and entry easy
-4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.
-  |
+4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.|
 | **Summary of Project Deliverables**   **Project management-related deliverables:** Project charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.  **Product-related deliverables:**
 1. A mockup of how the website will look and work.
 2. A website with no functionality embedded in it, but shows how the website will look.
 3. A website including functionalities is presented and will be open for changes.
-4. A finalized web portal is developed using client requirements and delivered.
-  |
+4. A finalized web portal is developed using client requirements and delivered.|
 | **Project Success Criteria:**
 - On time delivery of deliverables to client.
 - Client satisfaction with the web portal.
-- User friendly and happy operating features for employee.
-  |
+- User friendly and happy operating features for employee.|
 
 **Work Breakdown structure (WBS):**
 
@@ -255,7 +252,7 @@ The scope management plan specifies how formal acceptance of the completed proje
 **                       **
 
 
-1. **Project **** Schedule**** Management**
+1. **Project Schedule Management**
 
 Gantt Chart is in the docs.
 
@@ -266,6 +263,6 @@ Gantt Chart is in the docs.
 **                       **
 
 
-1. **Project **** Cost **** Management**
+1. **Project Cost Management**
 
 Cost Estimation is in the docs.
