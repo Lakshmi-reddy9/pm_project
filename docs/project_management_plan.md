@@ -1,6 +1,5 @@
 # 1.**Project  Integration  Management**
 
-**Project charter:**
 
 ### Project Charter: [PalMTouchStone]
 
@@ -203,7 +202,7 @@ Budget and Resource Allocation: The budget of the project is $3,000,000 and Proj
 **                       **
 
 
-1. **Project Scope Management**
+# **Project Scope Management**
 
 **Requirements specifications :**
 
@@ -219,7 +218,7 @@ Budget and Resource Allocation: The budget of the project is $3,000,000 and Proj
 | 8. | Response time should be less than 30 seconds | Medium | Non Functional |
 | 9. | Storage of user information | Medium | Non Functional |
 
-**Scope statement:**
+# **Scope statement:**
 
 The scope management plan specifies how formal acceptance of the completed project deliverables will be obtained. It is also one of the elements of the project management that may be updated along with the requirements management plan, cost management plan, quality management plan, and process improvement plan and more
 
@@ -244,7 +243,7 @@ The scope management plan specifies how formal acceptance of the completed proje
 | - Client satisfaction with the web portal.
 | - User friendly and happy operating features for employee.|
 
-**Work Breakdown structure (WBS):**
+# **Work Breakdown structure (WBS):**
 
 **Link to our issues:**
 
@@ -253,7 +252,7 @@ The scope management plan specifies how formal acceptance of the completed proje
 **                       **
 
 
-1. **Project Schedule Management**
+# **Project Schedule Management**
 
 Gantt Chart is in the docs.
 
@@ -264,6 +263,6 @@ Gantt Chart is in the docs.
 **                       **
 
 
-1. **Project Cost Management**
+# **Project Cost Management**
 
 Cost Estimation is in the docs.
