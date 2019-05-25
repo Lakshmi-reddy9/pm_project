@@ -1,3 +1,7 @@
+1. **Project ** Integration ** Management**
+
+**Project charter:**
+
 ### Project Charter: [PalMTouchStone]
 
 ## Project Information:  
@@ -116,9 +120,6 @@ The following have been identified as risks that could contribute to not making 
 
 - The client changes requirements mid-project.
 
-1. **Project **** Integration **** Management**
-
-**Project charter:**
 
 Project Management Plan:
 
