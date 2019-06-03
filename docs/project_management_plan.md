@@ -271,7 +271,11 @@ Gantt Chart is in the docs.
 
 # **Project Cost Management**
 
-Cost Estimation is in the docs.
+![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/cost_estimation.PNG)
+
+Link to Cost Estimation in the docs.
+[link](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/CostEstimation.xlsx)
+
 
 **                       **
 
