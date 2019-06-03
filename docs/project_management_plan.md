@@ -453,22 +453,16 @@ Report the documentation as hard and soft copy to management.
 
 | **Risk Rank** | **Major Risks** | **Strategies to mitigate risks** | **Responsibility** |
 | --- | --- | --- | --- |
-| 1 | Market Risk | - Take the product into market making it familiar to the customers
-- Keep track of similar products
- | Program managerProject manager |
-| 2 | Financial Risk |
-- The cash inflow and outflow at each stage should be noted
-- Allocate an excess cost of 10 – 20% for the project
- | Financial ManagerProgram managerProject Manager |
-| 3 | Technical Risk |
-- Experience of the employees matters
-- Define scope clearly
-- Review about each and every deliverable with project and program manager
+| 1 | Market Risk | Take the product into market making it familiar to the customers * Keep track of similar products | Program manager, Project manager |
+| 2 | Financial Risk | The cash inflow and outflow at each stage should be noted
+* Allocate an excess cost of 10 – 20% for the project | Financial Manager, Program manager, Project Manager |
+| 3 | Technical Risk | * Experience of the employees matters * Define scope clearly
+* Review about each and every deliverable with project and program manager
  | ProgrammerProgram manager |
 | 4 | People Risk |
-- Employee should be recruited from diversified location
+* Employee should be recruited from diversified location
  | CEOProgram manager |
 | 5 | Structure/ process risk |
-- Define the requirements and project objectives properly
-- All the stakeholders need to have a detailed information about each deliverable
+* Define the requirements and project objectives properly
+* All the stakeholders need to have a detailed information about each deliverable
  | Program managerProject manager |
