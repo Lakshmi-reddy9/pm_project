@@ -14,7 +14,7 @@
 ### Project Charter:
 https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/project_charter.md
 
-### Signature :
+### Signature : 
 * Sai sri Lakshmi Vancha
 * Mallikarjuna Bodepudi
 * Gopi Krishna Amara 
