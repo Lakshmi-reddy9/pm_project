@@ -333,6 +333,9 @@ The Resource Management Plan is to organize and lead the project team as well as
 
 ![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/Capture.PNG)
 
+Below is the link to raw file.
+[Link](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/resource_matrix.xlsx)
+
 **                       **
 
 # **Project Communications Management**
@@ -443,15 +446,17 @@ Report the documentation as hard and soft copy to management.
 
 
 
-**Risk Register**
+# **Risk Register**
 
  ![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/riskCapture.PNG)
 
+Below is the link to the raw file.
+[link](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/risk_register_.xlsx)
 
 
 
 
-**Risk Mitigation Strategies**
+# **Risk Mitigation Strategies**
 
 
 
