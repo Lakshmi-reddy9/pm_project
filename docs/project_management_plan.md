@@ -327,7 +327,11 @@ The Resource Management Plan is to organize and lead the project team as well as
 
 # **Project Organizational Charts**
 
+![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/organizat_chart.PNG)
+
 # **Responsibility Assignment Matrices**
+
+![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/Capture.PNG)
 
 **                       **
 
