@@ -113,10 +113,10 @@ The following general schedule will be followed:
 - Client feedback and updates completed at the end of week 7.
 - Project reflections and discussions completed during week 8.
 
-
+#### Correction in Budget:
 ### Budget
 
-$323,950 is the estimated budget for the project.
+$24,085 is the estimated budget for the project.
 
 ### Risk
 
