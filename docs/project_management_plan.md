@@ -441,7 +441,7 @@ Report the documentation as hard and soft copy to management.
 
 **Risk Register**
 
- 
+ ![](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/riskCapture.PNG)
 
 
 
