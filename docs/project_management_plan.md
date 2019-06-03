@@ -273,10 +273,12 @@ Gantt Chart is in the docs.
 
 Cost Estimation is in the docs.
 
+**                       **
 
-**Project Quality Management**
 
-**Quality Management Plan**
+# **Project Quality Management**
+
+# **Quality Management Plan**
 
 Project quality is defined as the degree to which the project deliverables  meet the requirements.  A  **Quality Management Plan**  is the component of the Project Management Plan which ensures that the requirements are met.
 
@@ -300,8 +302,6 @@ A good quality management plan contains the following 4 parts.
 
 **Quality Roles and Responsibilities:**
 
-
-
 | **Name** | **Role** | **Quality Responsibility** |
 | --- | --- | --- |
 |  Sai Sri Lakshmi Vancha | Web Developer | Quality Approver |
@@ -310,26 +310,28 @@ A good quality management plan contains the following 4 parts.
 | Sai Sri Lakshmi Vancha | Project Manager | Quality Monitoring |
 
 
-
 | **S No** | **Defect Level** | **Defect Name** | **Measurements** |
 | --- | --- | --- | --- |
 | 1 | High-Level Defects | Wrong Estimation, Not allocating work to an ideal individual, Planning error | Project estimation should be proficient more suitably and sufficient time should be given to evaluate the project. Project Manager should have a better than average data of the partners and their abilities and dole out work in like way.Care must be taken in the arranging stage, so that later shocks are evaded. |
 | 2 | Mid-level Defects | Bugs, Integration issues | Bugs are standard in any project so suitable testing and quality affirmation should be actualized.  Exactly when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules |
 | 3 | Low-level Defects | Screen Resolution, Hard-disk specifications | Screen resolution of the PCs won&#39;t not be awesome which may not be a tremendous issue but instead work should be conceivable better if it is as per the particulars |
+**                       **
 
-**Project Resources Management**
+# **Project Resources Management**
 
-**Resource Management Plan**
+# **Resource Management Plan**
 
 
 
 The Resource Management Plan is to organize and lead the project team as well as other resources
 
-**Project Organizational Charts**
+# **Project Organizational Charts**
 
-**Responsibility Assignment Matrices**
+# **Responsibility Assignment Matrices**
 
-**Project Communications Management**
+**                       **
+
+# **Project Communications Management**
 
 **Communication Management Plan**
 
@@ -375,7 +377,7 @@ The Resource Management Plan is to organize and lead the project team as well as
 
 - If any issues occur in the project, that needs to be resolved in a systematic way by raising tickets and solving them based on priority of the issue without missing SLAs.
 
-**9.        Stakeholder communications analysis**
+# **9.        Stakeholder communications analysis**
 
 | **Stakeholders** | **Document Name** | **Document Format** | **Contact Person** | **Due Date** |
 | --- | --- | --- | --- | --- |
@@ -388,14 +390,9 @@ The Resource Management Plan is to organize and lead the project team as well as
 | Tester | Test reports | Report | bmallikarjuna66@gmail.com | End of each task |
 
 
+**                       **
 
-
-
-
-
-
-
-**Project Risk Management**
+# **Project Risk Management**
 
 **Risk Management Plan**
 
@@ -456,23 +453,8 @@ Report the documentation as hard and soft copy to management.
 
 | **Risk Rank** | **Major Risks** | **Strategies to mitigate risks** | **Responsibility** |
 | --- | --- | --- | --- |
-| 1 | Market Risk |
-- Take the product into market making it familiar to the customers
-- Keep track of similar products
- | Program managerProject manager |
-| 2 | Financial Risk |
-- The cash inflow and outflow at each stage should be noted
-- Allocate an excess cost of 10 – 20% for the project
- | Financial ManagerProgram managerProject Manager |
-| 3 | Technical Risk |
-- Experience of the employees matters
-- Define scope clearly
-- Review about each and every deliverable with project and program manager
- | ProgrammerProgram manager |
-| 4 | People Risk |
-- Employee should be recruited from diversified location
- | CEOProgram manager |
-| 5 | Structure/ process risk |
-- Define the requirements and project objectives properly
-- All the stakeholders need to have a detailed information about each deliverable
- | Program managerProject manager |
+| 1 | Market Risk | Take the product into market making it familiar to the customers, Keep track of similar products | Program manager, Project manager |
+| 2 | Financial Risk | The cash inflow and outflow at each stage should be noted, Allocate an excess cost of 10 – 20% for the project | Financial Manager, Program manager, Project Manager |
+| 3 | Technical Risk | Experience of the employees matters, Define scope clearly, Review about each and every deliverable with project and program manager | Programmer, Program manager |
+| 4 | People Risk | Employee should be recruited from diversified location | CEO, Program manager |
+| 5 | Structure/ process risk | Define the requirements and project objectives properly, All the stakeholders need to have a detailed information about each deliverable | Program manager, Project manager |
