@@ -116,7 +116,7 @@ The following general schedule will be followed:
 #### Correction in Budget:
 ### Budget
 
-$24,085 is the estimated budget for the project.
+$16,195  is the estimated budget for the project.
 
 ### Risk
 
