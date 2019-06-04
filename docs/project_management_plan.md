@@ -27,7 +27,7 @@ PalMTouchStone is a online popquiz application where students can do the quiz on
 
 ### User Roles:
 
-1. Administrator - Gopi Krishna Amara
+1. Database Manager - Gopi Krishna Amara
 2. Project Manager - Sai Sri Lakshmi Vancha  
 3. Developer - Mallikarjuna Bodepudi
 4. Sponsor - NorthWest Missouri State University
@@ -35,7 +35,7 @@ PalMTouchStone is a online popquiz application where students can do the quiz on
 
 ### Stories by Role[](https://github.com/raybox94/PuMpup/PROJECT_CHARTER/#stories-by-role)
 
-. As an Administartor, I want to oversee and perform administrative functions concerned with the project. This include calling contractors, scheduling appointments, ordering supplies and preparing reports so that they get to keep up with the clients and the team members.
+. As an Database Manager, I want to allow database administrators to define new patches for databases or to easily apply new patches that come from vendors, thus updating databases with enhancements and keeping them secure.
 
 . As a Project Manager, I want to identify the central problem to solve and determine, with input from the sponsor and stakeholders so that I can meet the client needs and requirements.
 
