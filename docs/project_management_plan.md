@@ -341,6 +341,9 @@ Below is the link to raw file.
 [Link](https://github.com/Lakshmi-reddy9/pm_project/blob/master/docs/resource_matrix.xlsx)
 
 **                       **
+#Project Presentation
+
+https://docs.google.com/presentation/d/1KcK4P-LWPXwf627HHNYDSRlxVKbMaNGz4W27j2Rz8eM/edit#slide=id.g5b209d87f5_0_9
 
 # **Project Communications Management**
 
