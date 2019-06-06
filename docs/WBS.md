@@ -6,13 +6,11 @@
  * Review Project Charter                                                                                                                       
 2. Planning   
  * Develop Scope statement   
- * Develop Requirement Management Plan   
- * Develop the project plan   
+ * Develop Requirement Management Plan     
  * Develop Requirement matrix   
  * Develop cost management plan  
  * Develop the project management plan   
  * Develop quality management plan   
- * Develop project management plan 
  3. Execution   
   * Get all resources required   
   * Decide the components of the website   
