@@ -474,13 +474,13 @@ Below is the link to the raw file.
 
 **                       **
 
-# **Project Procurement Management**
+# Project Procurement Management
 
 # Procurement management plan
 
 # Statement of Work
 
-**I**. **Scope of Work:**
+**I. Scope of Work:**
 
 The hardware involved in this project are Microsoft desktops, Mac iOS, laptops are issued for higher level management officials, printers, Xerox machines, iPad&#39;s and nexus tabs for testing the application.
 
@@ -605,9 +605,3 @@ The project should be completed within the said deadline. If all the requirement
 | 1 | Need for more resources | Cannot proceed further | June 3rd | Sai Sri Lakshmi Vancha | Gopi Amara | M | June 3rd | Closed | Got approval. |
 | 2 | Changes in Cost estimation | Budget will exceed the estimated cost | June 4th | Mallikarjuna | Sai Sri Lakshmi Vahcha | H | June 20th | Open | Meetings are going on, most of the change is fixed. |
 | 3 | Probability of project getting delay | User acceptance testing may get delayed if the clients request changes in the project. | June 19th | Gopi Amara | Mallikarjuna | H | July 1st | open | Few adjustments needs to be done in the project. |
-|
-| |
-|
-| |
-|
-| |
