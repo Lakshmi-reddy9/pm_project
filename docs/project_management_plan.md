@@ -471,3 +471,155 @@ Below is the link to the raw file.
 | 3 | Technical Risk | Experience of the employees matters, Define scope clearly, Review about each and every deliverable with project and program manager | Programmer, Program manager |
 | 4 | People Risk | Employee should be recruited from diversified location | CEO, Program manager |
 | 5 | Structure/ process risk | Define the requirements and project objectives properly, All the stakeholders need to have a detailed information about each deliverable | Program manager, Project manager |
+
+**                       **
+
+# **Project Procurement Management**
+
+# Procurement management plan
+
+# Statement of Work
+
+**I**. **Scope of Work:**
+
+The hardware involved in this project are Microsoft desktops, Mac iOS, laptops are issued for higher level management officials, printers, Xerox machines, iPad&#39;s and nexus tabs for testing the application.
+
+The software involves windows operating system, java 8.1 version, Xcode, selenium for testing, android studio, SQL for database, outlook for communication, and WhatsApp group for instant messages, Skype for conference calls
+
+**II. Location of Work:**
+
+The location of work will be the office. The work must be performed in the office using the specified hardware and software tools.
+
+**III. Period of Performance:**
+
+The work is expected to be started on June 3rd and to be finished on June 7th, working hours per day will be 8,  number of hours that can be billed per week is 20-30, the work must be performed in the office.
+
+**IV. Deliverables Schedule:**
+
+| **Deliverable** | **Description** | **Due date** |
+| --- | --- | --- |
+| Project charter | Information about key schedule milestones, budget information, project manager, project objectives, success criteria, roles and responsibilities of stakeholders | 6/3/2019 |
+| Scope statement | Project justification, project characteristics and requirements, Project management-related deliverables, Product-related deliverables | 6/3/2019 |
+| Project management plan | Introduction to the project, project organization, managerial process, Technical Process, Work packages, schedule, and budget | 6/3/2019 |
+| Schedule management plan | Project schedule model development, The scheduling methodology, Level of accuracy and units of measure, Control thresholds, Rules of performance measurement, Reporting formats, Process descriptions | 6/4/2019 |
+| Stakeholder register | It contains names, position, project role, and contact information of the employee | 6/5/2019 |
+| Final product | This is the final deliverable of the project | 6/6/2019 |
+| Final documentation | This is the final document which is prepared by the project has completed | 6/7/2019 |
+
+**V. Applicable Standards:**
+
+Programmers should code minimum of 1000 lines of code every day and spacing should be correctly in a consistent way, which helps in readability.
+
+**VI. Acceptance Criteria:**
+
+The buyer will check whether all the requirements given by organization are completed or not. The buyer will see the quality of the product.
+
+**VII. Special Requirements:**
+
+The software&#39;s should be of latest version for the easiness of employees. Every employee in the office should have a minimum qualification of Graduation and should be fluent in English. The buses and cabs should be provided.
+
+
+
+### **Request for proposal**
+
+**Purpose:**
+
+To develop a mobile application on the given website.
+
+**Organizations background:**
+
+The organization has the best development team and support, It also fits the needs and requirements.
+
+**Basic requirements** :
+
+- Convert the website in to a mobile application.
+- Should be compatible with both Android and iOS devices.
+- The deployment should be done before June 8th .
+
+**Hardware and Software Environment** :
+
+- 0 should be used.
+- Android devices from version 4.1
+- iOS devices from iOS 9.0 should support.
+- XCode IDE is to be used.
+- Android studio 3.0 compatibility.
+- Swift version  10.0 compatibility.
+- Use of MySQL as the main database.
+
+**Possible Appendices:**
+
+1. **Current System Overview:**
+
+- Android version 3.0
+- iOS version 13
+
+1. **System Requirements:**
+
+- iOS10
+- Android 8.0
+
+1. Volume and Size Data
+
+- App takes 1 GB in a device
+
+1. **Required Contents of Vendor&#39;s Response to RFP:**
+
+- Cost
+- Time
+- Quality
+- Technical Experience.
+
+1. **Sample Contract:**
+
+The project should be completed within the said deadline. If all the requirements are met we shall discuss and move forward for other requirements later.
+
+**                       **
+
+**Project Stakeholder Management**
+
+# Stakeholder management plan
+
+### Stakeholder Register
+
+| **Name of the Stakeholder** | **Role in the project** | **Department** | **Type of Stakeholder** | **Expectations** | **Contact Info** |
+| --- | --- | --- | --- | --- | --- |
+| Dr.Denise Case | Mentor | Applied Computer Science | External | Provide review comments and suggest improvements | [dcase@nwmissouri.edu](mailto:dcase@nwmissouri.edu) |
+| Sai Sri Lakshmi Vancha | Project manager | Applied Computer Science | Internal | Set milestones, Coordinate activities and validate code | [s533905@nwmissouri.edu](mailto:s533905@nwmissouri.edu) |
+| Gopi Krishna Amara | Database Manager | Applied Computer Science | Internal | Placing calls, Tracking project and planning project | [s533486@nwmissouri.edu](mailto:s533486@nwmissouri.edu) |
+| Mallikarjuna Bodepudi | Developer | Applied Computer Science | Internal | Develop,test and validate code | [s34089@nwmissouri.edu](mailto:s34089@nwmissouri.edu) |
+
+
+
+# Stakeholder Analysis
+
+| **Name** | **Level of Interest** | **Level of Influence** | **Potential Management Strategies** |
+| --- | --- | --- | --- |
+| Sai Sri Lakshmi Vancha | High | Leading | Has Good communication and Leadership skills. Managed and controlled the project communications with client and stood has a representor within team and Client. Analyzing each task and its implementation. |
+| Gopi Amara | High | Supportive | He has good commanding skills and good at programming. He can monitor the project status.Has the ability to be in collaboration with the core business units and the Information Services Department to translate user requirements, develop and coordinate user testing, and assist in training and implementation of new systems or system enhancements. |
+| Mallikarjuna Bodepudi | High | Testing | Has good analytical skills to think out of the box and try to test to product from customer point of view. |
+
+# Issue Log
+
+| **Sl**** No. **|** Issue Description **|** Impact on Project **|** Date Reported **|** Reported By **|** Assigned To **|** Priority****(M/H/L)** | **Due Date** | **Status** | **Comments** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Need for more resources | Cannot proceed further | June 3
+# rd
+ | Sai Sri Lakshmi Vancha | Gopi Amara | M | June 3rd | Closed | Got approval. |
+|
+| |
+| 2 | Changes in Cost estimation | Budget will exceed the estimated cost | June 4
+# th
+ | Mallikarjuna | Sai Sri Lakshmi Vahcha | H | June 20th | Open | Meetings are going on, most of the change is fixed. |
+|
+| |
+| 3 | Probability of project getting delay | User acceptance testing may get delayed if the clients request changes in the project. | June 19
+# th
+ | Gopi Amara | Mallikarjuna | H | July 1
+# st
+ | open | Few adjustments needs to be done in the project. |
+|
+| |
+|
+| |
+|
+| |
