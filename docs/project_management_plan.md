@@ -474,7 +474,7 @@ Below is the link to the raw file.
 
 **                       **
 
-# Project Procurement Management
+# **Project Procurement Management**
 
 # Procurement management plan
 
@@ -558,7 +558,7 @@ The organization has the best development team and support, It also fits the nee
 - iOS10
 - Android 8.0
 
-1. Volume and Size Data
+1. **Volume and Size Data:**
 
 - App takes 1 GB in a device
 
@@ -575,7 +575,7 @@ The project should be completed within the said deadline. If all the requirement
 
 **                       **
 
-**Project Stakeholder Management**
+# **Project Stakeholder Management**
 
 # Stakeholder management plan
 
